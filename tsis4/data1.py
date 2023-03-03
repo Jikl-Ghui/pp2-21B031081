@@ -9,3 +9,4 @@ if new_dmy[0]<0:
         new_dmy[2]=int(new_dmy[2])-1
 print(dmy)
 print(str(new_dmy[0]) +" "+new_dmy[1]+" "+new_dmy[2])
+#done
